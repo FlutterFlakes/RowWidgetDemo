@@ -1,6 +1,4 @@
-# row_widget_demo
-
-Row Widget Demo
+#Row Widget Demo
 
 ## Getting Started
 
